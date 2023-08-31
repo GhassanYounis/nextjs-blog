@@ -31,21 +31,20 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/ghassanyounis.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
               alt=""
             />
             <a className={utilStyles.heading2Xl}>{name}</a>
-            <ActiveLink href="/posts/ssg-ssr">About</ActiveLink>
           </>
         ) : (
           <>
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.jpg"
+                src="/images/ghassanyounis.jpg"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}
