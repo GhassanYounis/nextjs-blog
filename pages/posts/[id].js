@@ -1,5 +1,5 @@
 import Head from "next/head.js";
-import Layout from "../../components/Layout.js";
+import Layout from "../../components/layout.js";
 import { getAllPostsIds, getPostData } from "../../lib/posts";
 import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
