@@ -26,6 +26,11 @@ export default function Home({allPostsData}) {
             <section className={utilStyles.headingMd}>
                 <p>Ghassan Younis is a chemical engineer, a graduate of Tikrit University, Faculty of Engineering. I have a great passion to learn programming and become a full-fledged developer, I am currently training to use Next.js.
 Next.js is a popular React framework that provides tools and features to build server-rendered React applications with ease.</p>
+        <p>
+           ... اهل الجرية ليش ما تركدون 
+            😆 
+
+        </p>
 
                 
             </section>
